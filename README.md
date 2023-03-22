@@ -17,8 +17,7 @@ Then:
 npm start
 
 ## About Project 
-In the project the code for To-Do List is written solemnly using React.js 
-The code written for navbar and its links is purely written using HTML, CSS and Bootstrap.
+In the project the code for To-Do List is written solemnly using React.js and  the code written for navbar and its links is purely written using HTML, CSS and Bootstrap.
 
 
 ## Contributing
