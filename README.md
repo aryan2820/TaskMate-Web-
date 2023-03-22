@@ -17,9 +17,10 @@ Then:
 npm start
 
 ## About Project 
-In the project the code for To-Do List is written solemnly using React.js and  the code written for navbar and its links is purely written using HTML, CSS and Bootstrap.
-The public folder contains index.html which contains the code for navbar using bootstrap and it's the main file which is linked with class "root" for React.js.
-The folder aslo consists of cv.html and its css file which is used as a Hyperlink.
+In the project the code for To-Do List is written solemnly using React.js.  
+The code written for navbar and its links is purely written using HTML, CSS and Bootstrap.  
+The public folder contains index.html which contains the code for navbar using bootstrap and it's the main file which is linked with class "root" for React.js.  
+The folder aslo consists of cv.html and its css file which is used as a Hyperlink.  
 The folder src consists of all the components and index.js file.
 
 
