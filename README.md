@@ -1,4 +1,4 @@
-# TaskMate-Web-
+# To-Do List Application 
 A web Application which allows users to add, edit, and delete tasks with ease.
 
 ## Installation
